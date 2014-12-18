@@ -1,2 +1,2 @@
 package GoProject
-import "C"
+import "fmt"
